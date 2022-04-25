@@ -1,0 +1,28 @@
+TESTING OUTLINE:
+
+HIGH LEVEL TESTS:
+
+--HOME PAGE TEST--
+1) Navigate to the localhost site
+2) Check and make sure the home page actually populates with information
+--NAVIGATION LINKS TEST--
+1) Open the localhost site
+2) Test all the navigation links in the side bar to make sure they actually work
+
+LOW LEVEL TESTS:
+
+--Cancel Wanted Boxes Test--
+1) Navigate to the localhost site
+2) Use the sidebar links to go to the cancel wanted page
+3) Check and make sure all the boxes can be typed in and submitted
+--Enter Wanted Boxes Test--
+1) Navigate to the localhost site
+2) Use the sidebar links to go to the enter wanted page
+3) Check all boxes to make sure the user can type and submit in them
+
+SANITY TEST:
+
+--NAVIGATION LINKS--
+1) Go to the localhost site
+2) Use the sidebar and click all of the navigation buttons and make sure that
+they all take you to the proper page when clicked
